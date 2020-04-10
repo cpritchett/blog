@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "First Post",
-            "content": ". toc: true layout: post description: The very first blog post Chad Pritchett has written in years. categories: [meta] title: First Post! . . unsplash-logo . Dino Reichmuth . This isn’t me. I don’t know where those mountains are. Cool picture though. . Welcome to the first post of my blog. Hopefully they’ll be some interesting content here. .",
-            "url": "https://chadpritchett.com/2020/04/10/First-Post.html",
-            "relUrl": "/2020/04/10/First-Post.html",
+            "title": "First Post!",
+            "content": ". Photo by Dino Reichmuth on Unsplash . This isn’t me. I don’t know where those mountains are. Cool picture though. . Welcome to the first post of my blog. Hopefully they’ll be some interesting content here. .",
+            "url": "https://chadpritchett.com/meta/2020/04/10/First-Post.html",
+            "relUrl": "/meta/2020/04/10/First-Post.html",
             "date": " • Apr 10, 2020"
         }
         
