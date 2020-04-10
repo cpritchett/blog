@@ -4,7 +4,7 @@ layout: post
 description: The very first blog post Chad Pritchett has written in years.
 categories: [meta]
 title: First Post!
-image: images/dino-reichmuth-1tFd-Bb1pxk-unsplash.jpg
+image: images/usplash/dino-reichmuth-1tFd-Bb1pxk-unsplash.jpg
 ---
 
 ![](https://images.unsplash.com/photo-1461263895214-7761d3a942de?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9){:height="75%" width="75%"}
